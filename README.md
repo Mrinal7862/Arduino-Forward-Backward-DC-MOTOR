@@ -25,10 +25,3 @@ This project demonstrates bidirectional control (forward/backward) and speed con
 ## 📄 Report
 Detailed procedure + mathematical PWM model is available in:
 `/report/Arduino_L293D_Motor_Report.pdf`
-
-## ▶️ Demo
-(Add a short GIF or screenshot from Tinkercad)
-
-## 🚀 Next
-- Add second motor (2-wheel car)
-- Add online control (ESP32)
